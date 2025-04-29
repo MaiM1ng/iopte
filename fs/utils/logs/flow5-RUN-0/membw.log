@@ -1,0 +1,2548 @@
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.50 --|
+|--            Writes(MB/s):    18.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.42 --|
+|--            Writes(MB/s):    18.76 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.83 --|
+|--            Writes(MB/s):    18.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.54 --|
+|--            Writes(MB/s):    18.61 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    22.30 --|
+|--            Writes(MB/s):    19.25 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.53 --|
+|--            Writes(MB/s):    19.14 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.68 --|
+|--            Writes(MB/s):    19.22 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.41 --|
+|--            Writes(MB/s):    19.09 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   178.21 --|
+|-- SKT  0 Mem Write(MB/s) :   150.72 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      328.93 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        178.21                --|
+            |--           System DRAM Write Throughput(MB/s):        150.72                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        178.21                --|
+            |--                System Write Throughput(MB/s):        150.72                --|
+            |--               System Memory Throughput(MB/s):        328.93                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.94 --|
+|--            Writes(MB/s):    18.19 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.12 --|
+|--            Writes(MB/s):    18.29 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.49 --|
+|--            Writes(MB/s):    17.81 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.16 --|
+|--            Writes(MB/s):    18.25 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.90 --|
+|--            Writes(MB/s):    18.83 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.15 --|
+|--            Writes(MB/s):    18.79 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.23 --|
+|--            Writes(MB/s):    18.75 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.20 --|
+|--            Writes(MB/s):    18.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   175.20 --|
+|-- SKT  0 Mem Write(MB/s) :   147.53 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      322.74 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        175.20                --|
+            |--           System DRAM Write Throughput(MB/s):        147.53                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        175.20                --|
+            |--                System Write Throughput(MB/s):        147.53                --|
+            |--               System Memory Throughput(MB/s):        322.74                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.86 --|
+|--            Writes(MB/s):    16.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.15 --|
+|--            Writes(MB/s):    16.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.06 --|
+|--            Writes(MB/s):    16.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.36 --|
+|--            Writes(MB/s):    16.89 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.03 --|
+|--            Writes(MB/s):    17.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.47 --|
+|--            Writes(MB/s):    17.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.14 --|
+|--            Writes(MB/s):    17.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.26 --|
+|--            Writes(MB/s):    17.22 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   168.34 --|
+|-- SKT  0 Mem Write(MB/s) :   136.77 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      305.10 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        168.34                --|
+            |--           System DRAM Write Throughput(MB/s):        136.77                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        168.34                --|
+            |--                System Write Throughput(MB/s):        136.77                --|
+            |--               System Memory Throughput(MB/s):        305.10                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.50 --|
+|--            Writes(MB/s):    16.96 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.92 --|
+|--            Writes(MB/s):    16.97 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.89 --|
+|--            Writes(MB/s):    16.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.96 --|
+|--            Writes(MB/s):    16.89 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.75 --|
+|--            Writes(MB/s):    17.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.25 --|
+|--            Writes(MB/s):    17.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.85 --|
+|--            Writes(MB/s):    17.69 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.02 --|
+|--            Writes(MB/s):    17.42 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.13 --|
+|-- SKT  0 Mem Write(MB/s) :   137.58 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      311.71 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.13                --|
+            |--           System DRAM Write Throughput(MB/s):        137.58                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.13                --|
+            |--                System Write Throughput(MB/s):        137.58                --|
+            |--               System Memory Throughput(MB/s):        311.71                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.47 --|
+|--            Writes(MB/s):    16.85 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.63 --|
+|--            Writes(MB/s):    16.80 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.69 --|
+|--            Writes(MB/s):    16.44 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.10 --|
+|--            Writes(MB/s):    16.82 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.72 --|
+|--            Writes(MB/s):    17.50 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.09 --|
+|--            Writes(MB/s):    17.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.64 --|
+|--            Writes(MB/s):    17.48 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.75 --|
+|--            Writes(MB/s):    17.28 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   173.08 --|
+|-- SKT  0 Mem Write(MB/s) :   136.69 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      309.77 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        173.08                --|
+            |--           System DRAM Write Throughput(MB/s):        136.69                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        173.08                --|
+            |--                System Write Throughput(MB/s):        136.69                --|
+            |--               System Memory Throughput(MB/s):        309.77                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.28 --|
+|--            Writes(MB/s):    16.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.77 --|
+|--            Writes(MB/s):    16.99 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.09 --|
+|--            Writes(MB/s):    16.33 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.40 --|
+|--            Writes(MB/s):    16.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    22.01 --|
+|--            Writes(MB/s):    17.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.55 --|
+|--            Writes(MB/s):    17.41 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.55 --|
+|--            Writes(MB/s):    17.61 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.97 --|
+|--            Writes(MB/s):    17.40 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.62 --|
+|-- SKT  0 Mem Write(MB/s) :   137.00 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      311.62 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.62                --|
+            |--           System DRAM Write Throughput(MB/s):        137.00                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.62                --|
+            |--                System Write Throughput(MB/s):        137.00                --|
+            |--               System Memory Throughput(MB/s):        311.62                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.29 --|
+|--            Writes(MB/s):    15.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.96 --|
+|--            Writes(MB/s):    15.73 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.62 --|
+|--            Writes(MB/s):    14.78 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.87 --|
+|--            Writes(MB/s):    15.33 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.47 --|
+|--            Writes(MB/s):    15.83 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.87 --|
+|--            Writes(MB/s):    15.76 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.63 --|
+|--            Writes(MB/s):    15.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.17 --|
+|--            Writes(MB/s):    16.16 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   164.89 --|
+|-- SKT  0 Mem Write(MB/s) :   124.98 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      289.87 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        164.89                --|
+            |--           System DRAM Write Throughput(MB/s):        124.98                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        164.89                --|
+            |--                System Write Throughput(MB/s):        124.98                --|
+            |--               System Memory Throughput(MB/s):        289.87                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    19.60 --|
+|--            Writes(MB/s):    13.56 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.23 --|
+|--            Writes(MB/s):    13.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.27 --|
+|--            Writes(MB/s):    12.83 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.26 --|
+|--            Writes(MB/s):    13.17 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.05 --|
+|--            Writes(MB/s):    13.72 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.03 --|
+|--            Writes(MB/s):    13.64 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.07 --|
+|--            Writes(MB/s):    13.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.49 --|
+|--            Writes(MB/s):    14.25 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   160.00 --|
+|-- SKT  0 Mem Write(MB/s) :   108.88 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      268.88 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        160.00                --|
+            |--           System DRAM Write Throughput(MB/s):        108.88                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        160.00                --|
+            |--                System Write Throughput(MB/s):        108.88                --|
+            |--               System Memory Throughput(MB/s):        268.88                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    19.57 --|
+|--            Writes(MB/s):    13.19 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.31 --|
+|--            Writes(MB/s):    13.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.52 --|
+|--            Writes(MB/s):    12.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.43 --|
+|--            Writes(MB/s):    12.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.28 --|
+|--            Writes(MB/s):    13.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.16 --|
+|--            Writes(MB/s):    13.31 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.02 --|
+|--            Writes(MB/s):    13.51 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.43 --|
+|--            Writes(MB/s):    13.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   160.72 --|
+|-- SKT  0 Mem Write(MB/s) :   106.39 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      267.11 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        160.72                --|
+            |--           System DRAM Write Throughput(MB/s):        106.39                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        160.72                --|
+            |--                System Write Throughput(MB/s):        106.39                --|
+            |--               System Memory Throughput(MB/s):        267.11                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    19.64 --|
+|--            Writes(MB/s):    13.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.16 --|
+|--            Writes(MB/s):    13.96 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.70 --|
+|--            Writes(MB/s):    12.94 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.89 --|
+|--            Writes(MB/s):    13.15 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.69 --|
+|--            Writes(MB/s):    13.75 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.81 --|
+|--            Writes(MB/s):    13.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    20.92 --|
+|--            Writes(MB/s):    13.82 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.20 --|
+|--            Writes(MB/s):    14.38 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   162.01 --|
+|-- SKT  0 Mem Write(MB/s) :   109.14 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      271.16 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        162.01                --|
+            |--           System DRAM Write Throughput(MB/s):        109.14                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        162.01                --|
+            |--                System Write Throughput(MB/s):        109.14                --|
+            |--               System Memory Throughput(MB/s):        271.16                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    19.87 --|
+|--            Writes(MB/s):    15.16 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.33 --|
+|--            Writes(MB/s):    15.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.80 --|
+|--            Writes(MB/s):    14.50 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.01 --|
+|--            Writes(MB/s):    14.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.73 --|
+|--            Writes(MB/s):    15.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.33 --|
+|--            Writes(MB/s):    15.26 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.29 --|
+|--            Writes(MB/s):    15.44 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.52 --|
+|--            Writes(MB/s):    16.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   163.89 --|
+|-- SKT  0 Mem Write(MB/s) :   121.88 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      285.77 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        163.89                --|
+            |--           System DRAM Write Throughput(MB/s):        121.88                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        163.89                --|
+            |--                System Write Throughput(MB/s):        121.88                --|
+            |--               System Memory Throughput(MB/s):        285.77                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    19.77 --|
+|--            Writes(MB/s):    15.20 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.59 --|
+|--            Writes(MB/s):    15.66 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.77 --|
+|--            Writes(MB/s):    14.72 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.80 --|
+|--            Writes(MB/s):    14.84 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.53 --|
+|--            Writes(MB/s):    15.79 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.06 --|
+|--            Writes(MB/s):    15.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.19 --|
+|--            Writes(MB/s):    15.64 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.86 --|
+|--            Writes(MB/s):    16.51 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   163.57 --|
+|-- SKT  0 Mem Write(MB/s) :   123.90 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      287.47 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        163.57                --|
+            |--           System DRAM Write Throughput(MB/s):        123.90                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        163.57                --|
+            |--                System Write Throughput(MB/s):        123.90                --|
+            |--               System Memory Throughput(MB/s):        287.47                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.21 --|
+|--            Writes(MB/s):    15.44 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.61 --|
+|--            Writes(MB/s):    15.78 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.66 --|
+|--            Writes(MB/s):    14.89 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.69 --|
+|--            Writes(MB/s):    15.00 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.45 --|
+|--            Writes(MB/s):    15.85 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.96 --|
+|--            Writes(MB/s):    15.60 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.41 --|
+|--            Writes(MB/s):    15.67 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.87 --|
+|--            Writes(MB/s):    16.58 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   163.85 --|
+|-- SKT  0 Mem Write(MB/s) :   124.80 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      288.65 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        163.85                --|
+            |--           System DRAM Write Throughput(MB/s):        124.80                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        163.85                --|
+            |--                System Write Throughput(MB/s):        124.80                --|
+            |--               System Memory Throughput(MB/s):        288.65                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.39 --|
+|--            Writes(MB/s):    15.15 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.41 --|
+|--            Writes(MB/s):    15.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.49 --|
+|--            Writes(MB/s):    14.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.57 --|
+|--            Writes(MB/s):    14.83 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.32 --|
+|--            Writes(MB/s):    15.43 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.62 --|
+|--            Writes(MB/s):    15.16 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.39 --|
+|--            Writes(MB/s):    15.31 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.57 --|
+|--            Writes(MB/s):    16.05 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   162.75 --|
+|-- SKT  0 Mem Write(MB/s) :   122.04 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      284.79 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        162.75                --|
+            |--           System DRAM Write Throughput(MB/s):        122.04                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        162.75                --|
+            |--                System Write Throughput(MB/s):        122.04                --|
+            |--               System Memory Throughput(MB/s):        284.79                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.98 --|
+|--            Writes(MB/s):    15.14 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.17 --|
+|--            Writes(MB/s):    15.61 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.88 --|
+|--            Writes(MB/s):    14.55 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.07 --|
+|--            Writes(MB/s):    14.76 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.82 --|
+|--            Writes(MB/s):    15.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.05 --|
+|--            Writes(MB/s):    15.18 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.84 --|
+|--            Writes(MB/s):    15.38 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.06 --|
+|--            Writes(MB/s):    16.17 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   166.89 --|
+|-- SKT  0 Mem Write(MB/s) :   122.16 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      289.05 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        166.89                --|
+            |--           System DRAM Write Throughput(MB/s):        122.16                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        166.89                --|
+            |--                System Write Throughput(MB/s):        122.16                --|
+            |--               System Memory Throughput(MB/s):        289.05                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.92 --|
+|--            Writes(MB/s):    16.09 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.23 --|
+|--            Writes(MB/s):    16.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.13 --|
+|--            Writes(MB/s):    15.70 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.21 --|
+|--            Writes(MB/s):    16.06 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.94 --|
+|--            Writes(MB/s):    16.73 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.21 --|
+|--            Writes(MB/s):    16.35 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.02 --|
+|--            Writes(MB/s):    16.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.21 --|
+|--            Writes(MB/s):    17.21 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   167.87 --|
+|-- SKT  0 Mem Write(MB/s) :   131.29 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      299.16 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        167.87                --|
+            |--           System DRAM Write Throughput(MB/s):        131.29                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        167.87                --|
+            |--                System Write Throughput(MB/s):        131.29                --|
+            |--               System Memory Throughput(MB/s):        299.16                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.33 --|
+|--            Writes(MB/s):    16.10 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.64 --|
+|--            Writes(MB/s):    16.60 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.48 --|
+|--            Writes(MB/s):    15.74 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.45 --|
+|--            Writes(MB/s):    15.96 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.26 --|
+|--            Writes(MB/s):    16.72 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.55 --|
+|--            Writes(MB/s):    16.30 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.37 --|
+|--            Writes(MB/s):    16.43 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.55 --|
+|--            Writes(MB/s):    17.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   170.62 --|
+|-- SKT  0 Mem Write(MB/s) :   130.98 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      301.60 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        170.62                --|
+            |--           System DRAM Write Throughput(MB/s):        130.98                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        170.62                --|
+            |--                System Write Throughput(MB/s):        130.98                --|
+            |--               System Memory Throughput(MB/s):        301.60                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.93 --|
+|--            Writes(MB/s):    14.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.93 --|
+|--            Writes(MB/s):    15.40 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.75 --|
+|--            Writes(MB/s):    14.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.96 --|
+|--            Writes(MB/s):    15.14 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.70 --|
+|--            Writes(MB/s):    15.48 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.00 --|
+|--            Writes(MB/s):    15.33 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.06 --|
+|--            Writes(MB/s):    15.22 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.84 --|
+|--            Writes(MB/s):    15.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   166.16 --|
+|-- SKT  0 Mem Write(MB/s) :   122.05 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      288.21 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        166.16                --|
+            |--           System DRAM Write Throughput(MB/s):        122.05                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        166.16                --|
+            |--                System Write Throughput(MB/s):        122.05                --|
+            |--               System Memory Throughput(MB/s):        288.21                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    20.91 --|
+|--            Writes(MB/s):    14.90 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    20.82 --|
+|--            Writes(MB/s):    15.26 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.81 --|
+|--            Writes(MB/s):    14.76 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.02 --|
+|--            Writes(MB/s):    15.21 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.77 --|
+|--            Writes(MB/s):    15.59 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.06 --|
+|--            Writes(MB/s):    15.51 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    21.94 --|
+|--            Writes(MB/s):    15.10 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.84 --|
+|--            Writes(MB/s):    15.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   166.17 --|
+|-- SKT  0 Mem Write(MB/s) :   122.23 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      288.40 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        166.17                --|
+            |--           System DRAM Write Throughput(MB/s):        122.23                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        166.17                --|
+            |--                System Write Throughput(MB/s):        122.23                --|
+            |--               System Memory Throughput(MB/s):        288.40                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.10 --|
+|--            Writes(MB/s):    16.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.26 --|
+|--            Writes(MB/s):    16.74 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.87 --|
+|--            Writes(MB/s):    16.11 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.48 --|
+|--            Writes(MB/s):    16.15 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.00 --|
+|--            Writes(MB/s):    16.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.18 --|
+|--            Writes(MB/s):    16.57 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.05 --|
+|--            Writes(MB/s):    16.15 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.21 --|
+|--            Writes(MB/s):    17.17 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   168.14 --|
+|-- SKT  0 Mem Write(MB/s) :   131.88 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      300.03 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        168.14                --|
+            |--           System DRAM Write Throughput(MB/s):        131.88                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        168.14                --|
+            |--                System Write Throughput(MB/s):        131.88                --|
+            |--               System Memory Throughput(MB/s):        300.03                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.28 --|
+|--            Writes(MB/s):    16.01 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.58 --|
+|--            Writes(MB/s):    16.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.23 --|
+|--            Writes(MB/s):    15.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.91 --|
+|--            Writes(MB/s):    16.07 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.39 --|
+|--            Writes(MB/s):    16.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.63 --|
+|--            Writes(MB/s):    16.46 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.56 --|
+|--            Writes(MB/s):    16.06 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.54 --|
+|--            Writes(MB/s):    16.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   171.12 --|
+|-- SKT  0 Mem Write(MB/s) :   130.56 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      301.68 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        171.12                --|
+            |--           System DRAM Write Throughput(MB/s):        130.56                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        171.12                --|
+            |--                System Write Throughput(MB/s):        130.56                --|
+            |--               System Memory Throughput(MB/s):        301.68                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.56 --|
+|--            Writes(MB/s):    16.58 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.69 --|
+|--            Writes(MB/s):    16.97 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.88 --|
+|--            Writes(MB/s):    16.57 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.80 --|
+|--            Writes(MB/s):    16.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.85 --|
+|--            Writes(MB/s):    17.27 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.17 --|
+|--            Writes(MB/s):    17.00 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.58 --|
+|--            Writes(MB/s):    16.42 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.46 --|
+|--            Writes(MB/s):    17.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   170.01 --|
+|-- SKT  0 Mem Write(MB/s) :   135.08 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      305.09 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        170.01                --|
+            |--           System DRAM Write Throughput(MB/s):        135.08                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        170.01                --|
+            |--                System Write Throughput(MB/s):        135.08                --|
+            |--               System Memory Throughput(MB/s):        305.09                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.56 --|
+|--            Writes(MB/s):    16.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.90 --|
+|--            Writes(MB/s):    17.03 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.34 --|
+|--            Writes(MB/s):    16.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.82 --|
+|--            Writes(MB/s):    16.97 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.29 --|
+|--            Writes(MB/s):    17.46 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.73 --|
+|--            Writes(MB/s):    17.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.98 --|
+|--            Writes(MB/s):    16.75 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.85 --|
+|--            Writes(MB/s):    17.40 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   172.47 --|
+|-- SKT  0 Mem Write(MB/s) :   136.10 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      308.57 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        172.47                --|
+            |--           System DRAM Write Throughput(MB/s):        136.10                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        172.47                --|
+            |--                System Write Throughput(MB/s):        136.10                --|
+            |--               System Memory Throughput(MB/s):        308.57                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.81 --|
+|--            Writes(MB/s):    16.51 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.25 --|
+|--            Writes(MB/s):    16.72 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.50 --|
+|--            Writes(MB/s):    16.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.82 --|
+|--            Writes(MB/s):    16.69 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.30 --|
+|--            Writes(MB/s):    17.09 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.05 --|
+|--            Writes(MB/s):    16.85 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.19 --|
+|--            Writes(MB/s):    16.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.89 --|
+|--            Writes(MB/s):    17.20 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   173.81 --|
+|-- SKT  0 Mem Write(MB/s) :   133.90 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      307.71 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        173.81                --|
+            |--           System DRAM Write Throughput(MB/s):        133.90                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        173.81                --|
+            |--                System Write Throughput(MB/s):        133.90                --|
+            |--               System Memory Throughput(MB/s):        307.71                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.99 --|
+|--            Writes(MB/s):    16.71 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.56 --|
+|--            Writes(MB/s):    16.96 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.58 --|
+|--            Writes(MB/s):    16.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.77 --|
+|--            Writes(MB/s):    16.77 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.27 --|
+|--            Writes(MB/s):    17.14 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.10 --|
+|--            Writes(MB/s):    16.94 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.33 --|
+|--            Writes(MB/s):    16.75 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.26 --|
+|--            Writes(MB/s):    17.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.86 --|
+|-- SKT  0 Mem Write(MB/s) :   135.25 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      310.11 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.86                --|
+            |--           System DRAM Write Throughput(MB/s):        135.25                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.86                --|
+            |--                System Write Throughput(MB/s):        135.25                --|
+            |--               System Memory Throughput(MB/s):        310.11                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.00 --|
+|--            Writes(MB/s):    15.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.34 --|
+|--            Writes(MB/s):    16.02 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.82 --|
+|--            Writes(MB/s):    15.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.05 --|
+|--            Writes(MB/s):    16.17 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.59 --|
+|--            Writes(MB/s):    16.41 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.34 --|
+|--            Writes(MB/s):    16.33 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.36 --|
+|--            Writes(MB/s):    15.98 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.18 --|
+|--            Writes(MB/s):    16.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   175.69 --|
+|-- SKT  0 Mem Write(MB/s) :   129.42 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      305.11 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        175.69                --|
+            |--           System DRAM Write Throughput(MB/s):        129.42                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        175.69                --|
+            |--                System Write Throughput(MB/s):        129.42                --|
+            |--               System Memory Throughput(MB/s):        305.11                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.41 --|
+|--            Writes(MB/s):    15.34 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.80 --|
+|--            Writes(MB/s):    15.57 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.32 --|
+|--            Writes(MB/s):    15.59 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.53 --|
+|--            Writes(MB/s):    15.74 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.21 --|
+|--            Writes(MB/s):    16.07 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.88 --|
+|--            Writes(MB/s):    15.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.92 --|
+|--            Writes(MB/s):    15.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.49 --|
+|--            Writes(MB/s):    16.06 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   171.57 --|
+|-- SKT  0 Mem Write(MB/s) :   125.75 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      297.32 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        171.57                --|
+            |--           System DRAM Write Throughput(MB/s):        125.75                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        171.57                --|
+            |--                System Write Throughput(MB/s):        125.75                --|
+            |--               System Memory Throughput(MB/s):        297.32                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.73 --|
+|--            Writes(MB/s):    15.50 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.12 --|
+|--            Writes(MB/s):    15.71 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.58 --|
+|--            Writes(MB/s):    15.82 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.85 --|
+|--            Writes(MB/s):    15.77 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.36 --|
+|--            Writes(MB/s):    16.16 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.22 --|
+|--            Writes(MB/s):    16.05 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.23 --|
+|--            Writes(MB/s):    15.68 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.84 --|
+|--            Writes(MB/s):    16.25 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   173.91 --|
+|-- SKT  0 Mem Write(MB/s) :   126.96 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      300.87 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        173.91                --|
+            |--           System DRAM Write Throughput(MB/s):        126.96                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        173.91                --|
+            |--                System Write Throughput(MB/s):        126.96                --|
+            |--               System Memory Throughput(MB/s):        300.87                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.20 --|
+|--            Writes(MB/s):    16.22 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.44 --|
+|--            Writes(MB/s):    16.36 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.44 --|
+|--            Writes(MB/s):    16.59 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.75 --|
+|--            Writes(MB/s):    16.68 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.47 --|
+|--            Writes(MB/s):    17.11 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.07 --|
+|--            Writes(MB/s):    17.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.75 --|
+|--            Writes(MB/s):    16.39 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.40 --|
+|--            Writes(MB/s):    16.93 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   171.50 --|
+|-- SKT  0 Mem Write(MB/s) :   133.32 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      304.82 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        171.50                --|
+            |--           System DRAM Write Throughput(MB/s):        133.32                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        171.50                --|
+            |--                System Write Throughput(MB/s):        133.32                --|
+            |--               System Memory Throughput(MB/s):        304.82                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.76 --|
+|--            Writes(MB/s):    16.60 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.62 --|
+|--            Writes(MB/s):    16.79 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.50 --|
+|--            Writes(MB/s):    16.77 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.72 --|
+|--            Writes(MB/s):    17.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    22.35 --|
+|--            Writes(MB/s):    17.58 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.78 --|
+|--            Writes(MB/s):    17.35 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    24.05 --|
+|--            Writes(MB/s):    16.78 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.85 --|
+|--            Writes(MB/s):    17.35 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   180.63 --|
+|-- SKT  0 Mem Write(MB/s) :   136.27 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      316.89 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        180.63                --|
+            |--           System DRAM Write Throughput(MB/s):        136.27                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        180.63                --|
+            |--                System Write Throughput(MB/s):        136.27                --|
+            |--               System Memory Throughput(MB/s):        316.89                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.44 --|
+|--            Writes(MB/s):    15.55 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.46 --|
+|--            Writes(MB/s):    15.64 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.04 --|
+|--            Writes(MB/s):    15.70 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.31 --|
+|--            Writes(MB/s):    15.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.02 --|
+|--            Writes(MB/s):    16.55 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.29 --|
+|--            Writes(MB/s):    16.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.90 --|
+|--            Writes(MB/s):    15.85 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.49 --|
+|--            Writes(MB/s):    16.26 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   169.97 --|
+|-- SKT  0 Mem Write(MB/s) :   127.92 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      297.89 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        169.97                --|
+            |--           System DRAM Write Throughput(MB/s):        127.92                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        169.97                --|
+            |--                System Write Throughput(MB/s):        127.92                --|
+            |--               System Memory Throughput(MB/s):        297.89                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.42 --|
+|--            Writes(MB/s):    15.73 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.14 --|
+|--            Writes(MB/s):    15.73 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    18.94 --|
+|--            Writes(MB/s):    15.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.37 --|
+|--            Writes(MB/s):    15.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.90 --|
+|--            Writes(MB/s):    16.44 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.29 --|
+|--            Writes(MB/s):    16.41 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.67 --|
+|--            Writes(MB/s):    15.75 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.21 --|
+|--            Writes(MB/s):    16.29 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   168.94 --|
+|-- SKT  0 Mem Write(MB/s) :   127.86 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      296.81 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        168.94                --|
+            |--           System DRAM Write Throughput(MB/s):        127.86                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        168.94                --|
+            |--                System Write Throughput(MB/s):        127.86                --|
+            |--               System Memory Throughput(MB/s):        296.81                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.93 --|
+|--            Writes(MB/s):    16.46 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.99 --|
+|--            Writes(MB/s):    16.64 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.65 --|
+|--            Writes(MB/s):    16.34 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.03 --|
+|--            Writes(MB/s):    16.49 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.68 --|
+|--            Writes(MB/s):    17.16 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    22.00 --|
+|--            Writes(MB/s):    17.10 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.32 --|
+|--            Writes(MB/s):    16.81 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.89 --|
+|--            Writes(MB/s):    17.15 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.51 --|
+|-- SKT  0 Mem Write(MB/s) :   134.14 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      308.65 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.51                --|
+            |--           System DRAM Write Throughput(MB/s):        134.14                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.51                --|
+            |--                System Write Throughput(MB/s):        134.14                --|
+            |--               System Memory Throughput(MB/s):        308.65                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.04 --|
+|--            Writes(MB/s):    15.84 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.89 --|
+|--            Writes(MB/s):    15.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.72 --|
+|--            Writes(MB/s):    15.64 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.87 --|
+|--            Writes(MB/s):    15.71 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.57 --|
+|--            Writes(MB/s):    16.39 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.62 --|
+|--            Writes(MB/s):    16.05 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.94 --|
+|--            Writes(MB/s):    15.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.83 --|
+|--            Writes(MB/s):    16.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   173.48 --|
+|-- SKT  0 Mem Write(MB/s) :   127.85 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      301.33 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        173.48                --|
+            |--           System DRAM Write Throughput(MB/s):        127.85                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        173.48                --|
+            |--                System Write Throughput(MB/s):        127.85                --|
+            |--               System Memory Throughput(MB/s):        301.33                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.28 --|
+|--            Writes(MB/s):    15.69 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.20 --|
+|--            Writes(MB/s):    15.80 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.21 --|
+|--            Writes(MB/s):    15.36 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.47 --|
+|--            Writes(MB/s):    15.28 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.98 --|
+|--            Writes(MB/s):    16.08 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.47 --|
+|--            Writes(MB/s):    15.58 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.29 --|
+|--            Writes(MB/s):    15.86 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.28 --|
+|--            Writes(MB/s):    16.32 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   169.19 --|
+|-- SKT  0 Mem Write(MB/s) :   125.98 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      295.17 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        169.19                --|
+            |--           System DRAM Write Throughput(MB/s):        125.98                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        169.19                --|
+            |--                System Write Throughput(MB/s):        125.98                --|
+            |--               System Memory Throughput(MB/s):        295.17                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.27 --|
+|--            Writes(MB/s):    14.98 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.34 --|
+|--            Writes(MB/s):    15.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.82 --|
+|--            Writes(MB/s):    15.02 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.91 --|
+|--            Writes(MB/s):    14.87 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.48 --|
+|--            Writes(MB/s):    15.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.96 --|
+|--            Writes(MB/s):    15.44 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.22 --|
+|--            Writes(MB/s):    15.32 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.97 --|
+|--            Writes(MB/s):    15.80 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.97 --|
+|-- SKT  0 Mem Write(MB/s) :   122.31 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      297.29 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.97                --|
+            |--           System DRAM Write Throughput(MB/s):        122.31                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.97                --|
+            |--                System Write Throughput(MB/s):        122.31                --|
+            |--               System Memory Throughput(MB/s):        297.29                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.41 --|
+|--            Writes(MB/s):    14.30 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.02 --|
+|--            Writes(MB/s):    14.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.13 --|
+|--            Writes(MB/s):    14.56 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.90 --|
+|--            Writes(MB/s):    14.57 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.88 --|
+|--            Writes(MB/s):    15.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.86 --|
+|--            Writes(MB/s):    15.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.11 --|
+|--            Writes(MB/s):    14.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    21.87 --|
+|--            Writes(MB/s):    15.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   167.18 --|
+|-- SKT  0 Mem Write(MB/s) :   118.38 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      285.56 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        167.18                --|
+            |--           System DRAM Write Throughput(MB/s):        118.38                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        167.18                --|
+            |--                System Write Throughput(MB/s):        118.38                --|
+            |--               System Memory Throughput(MB/s):        285.56                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.16 --|
+|--            Writes(MB/s):    14.77 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.72 --|
+|--            Writes(MB/s):    14.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.72 --|
+|--            Writes(MB/s):    14.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.30 --|
+|--            Writes(MB/s):    14.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.52 --|
+|--            Writes(MB/s):    15.74 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.14 --|
+|--            Writes(MB/s):    15.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.90 --|
+|--            Writes(MB/s):    15.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.53 --|
+|--            Writes(MB/s):    15.55 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   171.98 --|
+|-- SKT  0 Mem Write(MB/s) :   121.32 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      293.31 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        171.98                --|
+            |--           System DRAM Write Throughput(MB/s):        121.32                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        171.98                --|
+            |--                System Write Throughput(MB/s):        121.32                --|
+            |--               System Memory Throughput(MB/s):        293.31                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.45 --|
+|--            Writes(MB/s):    15.99 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.42 --|
+|--            Writes(MB/s):    16.32 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.36 --|
+|--            Writes(MB/s):    16.26 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    21.26 --|
+|--            Writes(MB/s):    16.20 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    22.00 --|
+|--            Writes(MB/s):    16.81 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.91 --|
+|--            Writes(MB/s):    16.84 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.43 --|
+|--            Writes(MB/s):    16.39 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.14 --|
+|--            Writes(MB/s):    16.71 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   176.97 --|
+|-- SKT  0 Mem Write(MB/s) :   131.54 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      308.51 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        176.97                --|
+            |--           System DRAM Write Throughput(MB/s):        131.54                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        176.97                --|
+            |--                System Write Throughput(MB/s):        131.54                --|
+            |--               System Memory Throughput(MB/s):        308.51                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.76 --|
+|--            Writes(MB/s):    15.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.76 --|
+|--            Writes(MB/s):    15.66 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.81 --|
+|--            Writes(MB/s):    15.47 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.67 --|
+|--            Writes(MB/s):    15.67 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.40 --|
+|--            Writes(MB/s):    16.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.54 --|
+|--            Writes(MB/s):    16.05 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.46 --|
+|--            Writes(MB/s):    15.77 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.71 --|
+|--            Writes(MB/s):    16.09 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   172.12 --|
+|-- SKT  0 Mem Write(MB/s) :   126.26 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      298.37 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        172.12                --|
+            |--           System DRAM Write Throughput(MB/s):        126.26                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        172.12                --|
+            |--                System Write Throughput(MB/s):        126.26                --|
+            |--               System Memory Throughput(MB/s):        298.37                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.08 --|
+|--            Writes(MB/s):    16.07 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.56 --|
+|--            Writes(MB/s):    16.18 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.83 --|
+|--            Writes(MB/s):    15.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.60 --|
+|--            Writes(MB/s):    15.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.63 --|
+|--            Writes(MB/s):    16.56 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.72 --|
+|--            Writes(MB/s):    16.52 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.25 --|
+|--            Writes(MB/s):    16.48 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.22 --|
+|--            Writes(MB/s):    16.53 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.89 --|
+|-- SKT  0 Mem Write(MB/s) :   130.19 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      305.08 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.89                --|
+            |--           System DRAM Write Throughput(MB/s):        130.19                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.89                --|
+            |--                System Write Throughput(MB/s):        130.19                --|
+            |--               System Memory Throughput(MB/s):        305.08                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.56 --|
+|--            Writes(MB/s):    16.22 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.61 --|
+|--            Writes(MB/s):    16.63 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.26 --|
+|--            Writes(MB/s):    16.14 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.77 --|
+|--            Writes(MB/s):    16.36 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    22.03 --|
+|--            Writes(MB/s):    16.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.79 --|
+|--            Writes(MB/s):    16.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.76 --|
+|--            Writes(MB/s):    16.61 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.59 --|
+|--            Writes(MB/s):    17.06 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   177.37 --|
+|-- SKT  0 Mem Write(MB/s) :   132.89 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      310.26 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        177.37                --|
+            |--           System DRAM Write Throughput(MB/s):        132.89                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        177.37                --|
+            |--                System Write Throughput(MB/s):        132.89                --|
+            |--               System Memory Throughput(MB/s):        310.26                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.15 --|
+|--            Writes(MB/s):    15.10 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.93 --|
+|--            Writes(MB/s):    15.27 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.13 --|
+|--            Writes(MB/s):    15.10 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.38 --|
+|--            Writes(MB/s):    15.31 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.92 --|
+|--            Writes(MB/s):    16.00 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.24 --|
+|--            Writes(MB/s):    15.94 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.49 --|
+|--            Writes(MB/s):    15.38 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.99 --|
+|--            Writes(MB/s):    15.94 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   174.23 --|
+|-- SKT  0 Mem Write(MB/s) :   124.04 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      298.27 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        174.23                --|
+            |--           System DRAM Write Throughput(MB/s):        124.04                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        174.23                --|
+            |--                System Write Throughput(MB/s):        124.04                --|
+            |--               System Memory Throughput(MB/s):        298.27                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.52 --|
+|--            Writes(MB/s):    14.96 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.65 --|
+|--            Writes(MB/s):    14.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.38 --|
+|--            Writes(MB/s):    14.66 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.40 --|
+|--            Writes(MB/s):    14.81 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.85 --|
+|--            Writes(MB/s):    15.28 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.08 --|
+|--            Writes(MB/s):    15.23 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.58 --|
+|--            Writes(MB/s):    14.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.55 --|
+|--            Writes(MB/s):    15.65 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   172.01 --|
+|-- SKT  0 Mem Write(MB/s) :   120.46 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      292.47 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        172.01                --|
+            |--           System DRAM Write Throughput(MB/s):        120.46                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        172.01                --|
+            |--                System Write Throughput(MB/s):        120.46                --|
+            |--               System Memory Throughput(MB/s):        292.47                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.84 --|
+|--            Writes(MB/s):    14.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.93 --|
+|--            Writes(MB/s):    14.50 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.82 --|
+|--            Writes(MB/s):    13.88 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.50 --|
+|--            Writes(MB/s):    13.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.73 --|
+|--            Writes(MB/s):    14.38 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.38 --|
+|--            Writes(MB/s):    14.45 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    22.76 --|
+|--            Writes(MB/s):    14.27 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.72 --|
+|--            Writes(MB/s):    14.94 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   172.68 --|
+|-- SKT  0 Mem Write(MB/s) :   114.57 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      287.25 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        172.68                --|
+            |--           System DRAM Write Throughput(MB/s):        114.57                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        172.68                --|
+            |--                System Write Throughput(MB/s):        114.57                --|
+            |--               System Memory Throughput(MB/s):        287.25                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    24.26 --|
+|--            Writes(MB/s):    16.04 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    23.88 --|
+|--            Writes(MB/s):    16.30 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    21.76 --|
+|--            Writes(MB/s):    15.85 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    22.48 --|
+|--            Writes(MB/s):    15.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    23.47 --|
+|--            Writes(MB/s):    16.26 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    23.23 --|
+|--            Writes(MB/s):    16.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    25.46 --|
+|--            Writes(MB/s):    15.99 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    24.64 --|
+|--            Writes(MB/s):    16.59 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   189.19 --|
+|-- SKT  0 Mem Write(MB/s) :   129.35 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      318.54 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        189.19                --|
+            |--           System DRAM Write Throughput(MB/s):        129.35                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        189.19                --|
+            |--                System Write Throughput(MB/s):        129.35                --|
+            |--               System Memory Throughput(MB/s):        318.54                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.78 --|
+|--            Writes(MB/s):    14.19 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.40 --|
+|--            Writes(MB/s):    14.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.02 --|
+|--            Writes(MB/s):    13.92 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.43 --|
+|--            Writes(MB/s):    14.17 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    20.70 --|
+|--            Writes(MB/s):    14.43 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.27 --|
+|--            Writes(MB/s):    14.30 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.05 --|
+|--            Writes(MB/s):    14.01 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    22.38 --|
+|--            Writes(MB/s):    14.43 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   168.03 --|
+|-- SKT  0 Mem Write(MB/s) :   113.57 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      281.60 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        168.03                --|
+            |--           System DRAM Write Throughput(MB/s):        113.57                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        168.03                --|
+            |--                System Write Throughput(MB/s):        113.57                --|
+            |--               System Memory Throughput(MB/s):        281.60                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    21.95 --|
+|--            Writes(MB/s):    16.00 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    21.99 --|
+|--            Writes(MB/s):    15.98 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    19.72 --|
+|--            Writes(MB/s):    16.11 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    19.89 --|
+|--            Writes(MB/s):    16.36 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.45 --|
+|--            Writes(MB/s):    16.87 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    20.79 --|
+|--            Writes(MB/s):    16.71 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.65 --|
+|--            Writes(MB/s):    16.12 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.11 --|
+|--            Writes(MB/s):    16.35 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   172.55 --|
+|-- SKT  0 Mem Write(MB/s) :   130.51 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      303.06 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        172.55                --|
+            |--           System DRAM Write Throughput(MB/s):        130.51                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        172.55                --|
+            |--                System Write Throughput(MB/s):        130.51                --|
+            |--               System Memory Throughput(MB/s):        303.06                --|
+            |---------------------------------------||---------------------------------------|
+|---------------------------------------|
+|--             Socket  0             --|
+|---------------------------------------|
+|--     Memory Channel Monitoring     --|
+|---------------------------------------|
+|-- Mem Ch  0: Reads (MB/s):    22.40 --|
+|--            Writes(MB/s):    17.58 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  1: Reads (MB/s):    22.49 --|
+|--            Writes(MB/s):    17.95 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  2: Reads (MB/s):    20.04 --|
+|--            Writes(MB/s):    17.62 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  3: Reads (MB/s):    20.67 --|
+|--            Writes(MB/s):    17.91 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  4: Reads (MB/s):    21.84 --|
+|--            Writes(MB/s):    18.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  5: Reads (MB/s):    21.42 --|
+|--            Writes(MB/s):    18.37 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  6: Reads (MB/s):    23.86 --|
+|--            Writes(MB/s):    17.69 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- Mem Ch  7: Reads (MB/s):    23.62 --|
+|--            Writes(MB/s):    18.24 --|
+|--      PMM Reads(MB/s)   :     0.00 --|
+|--      PMM Writes(MB/s)  :     0.00 --|
+|-- SKT  0 Mem Read (MB/s) :   176.33 --|
+|-- SKT  0 Mem Write(MB/s) :   143.62 --|
+|-- SKT  0 PMM Read (MB/s):      0.00 --|
+|-- SKT  0 PMM Write(MB/s):      0.00 --|
+|-- SKT  0 Memory (MB/s):      319.95 --|
+|---------------------------------------|
+            |---------------------------------------||---------------------------------------|
+            |--            System DRAM Read Throughput(MB/s):        176.33                --|
+            |--           System DRAM Write Throughput(MB/s):        143.62                --|
+            |--             System PMM Read Throughput(MB/s):          0.00                --|
+            |--            System PMM Write Throughput(MB/s):          0.00                --|
+            |--                 System Read Throughput(MB/s):        176.33                --|
+            |--                System Write Throughput(MB/s):        143.62                --|
+            |--               System Memory Throughput(MB/s):        319.95                --|
+            |---------------------------------------||---------------------------------------|

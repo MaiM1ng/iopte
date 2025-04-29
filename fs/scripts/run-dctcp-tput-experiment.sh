@@ -1,4 +1,4 @@
-#!/bin/bash
+g!/bin/bash
 
 help() {
   echo "Usage: run-rdma-tput-experiment
@@ -37,8 +37,8 @@ eval set -- "$OPTS"
 exp="ym-test"
 server="node0"
 client="node1"
-server_intf="ens2f1np1"
-client_intf="ens2f1np1"
+server_intf="ens2f0np0"
+client_intf="ens2f0np0"
 num_serveyrs=0
 num_clients=5
 init_port=3000

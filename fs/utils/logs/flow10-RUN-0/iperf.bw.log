@@ -1,0 +1,110 @@
+-----------------------------------------------------------
+Server listening on 3001 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 34796
+[  6] local 10.10.1.1 port 3001 connected to 10.10.1.2 port 34802
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  34.3 GBytes  9821 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3000 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 52776
+[  6] local 10.10.1.1 port 3000 connected to 10.10.1.2 port 52780
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  35.2 GBytes  10064 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3002 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 35018
+[  6] local 10.10.1.1 port 3002 connected to 10.10.1.2 port 35034
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  35.0 GBytes  10012 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3004 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 55312
+[  6] local 10.10.1.1 port 3004 connected to 10.10.1.2 port 55316
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  34.9 GBytes  9976 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3007 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 50944
+[  6] local 10.10.1.1 port 3007 connected to 10.10.1.2 port 50958
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  33.5 GBytes  9581 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3006 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 50058
+[  6] local 10.10.1.1 port 3006 connected to 10.10.1.2 port 50074
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  34.1 GBytes  9757 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3009 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 52940
+[  6] local 10.10.1.1 port 3009 connected to 10.10.1.2 port 52942
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  32.6 GBytes  9316 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3003 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 59666
+[  6] local 10.10.1.1 port 3003 connected to 10.10.1.2 port 59674
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  34.8 GBytes  9958 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3008 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 60858
+[  6] local 10.10.1.1 port 3008 connected to 10.10.1.2 port 60860
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  33.8 GBytes  9663 Mbits/sec                  
+-----------------------------------------------------------
+Server listening on 3005 (test #1)
+-----------------------------------------------------------
+Accepted connection from 10.10.1.2, port 44994
+[  6] local 10.10.1.1 port 3005 connected to 10.10.1.2 port 44996
+[ ID] Interval           Transfer     Bitrate
+[  6]   0.00-30.03  sec  32.2 GBytes  9216 Mbits/sec                  
+[  6]  30.03-60.03  sec  33.9 GBytes  9705 Mbits/sec                  
+[  6]  30.03-60.03  sec  35.5 GBytes  10172 Mbits/sec                  
+[  6]  30.03-60.03  sec  35.4 GBytes  10148 Mbits/sec                  
+[  6]  30.03-60.03  sec  35.0 GBytes  10029 Mbits/sec                  
+[  6]  30.03-60.03  sec  34.7 GBytes  9933 Mbits/sec                  
+[  6]  30.03-60.03  sec  33.6 GBytes  9610 Mbits/sec                  
+[  6]  30.03-60.03  sec  34.5 GBytes  9875 Mbits/sec                  
+[  6]  30.03-60.03  sec  34.1 GBytes  9763 Mbits/sec                  
+[  6]  30.03-60.03  sec  32.2 GBytes  9221 Mbits/sec                  
+[  6]  30.03-60.03  sec  32.5 GBytes  9308 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.3 GBytes  9811 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.2 GBytes  9788 Mbits/sec                  
+[  6]  60.03-90.03  sec  35.0 GBytes  10025 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.4 GBytes  9857 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.3 GBytes  9834 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.4 GBytes  9844 Mbits/sec                  
+[  6]  60.03-90.03  sec  32.8 GBytes  9392 Mbits/sec                  
+[  6]  60.03-90.03  sec  32.5 GBytes  9298 Mbits/sec                  
+[  6]  60.03-90.03  sec  34.2 GBytes  9801 Mbits/sec                  
+[  6]  60.03-90.03  sec  35.3 GBytes  10115 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.2 GBytes  9804 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.7 GBytes  9935 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.5 GBytes  9890 Mbits/sec                  
+[  6]  90.03-120.03 sec  35.1 GBytes  10053 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.0 GBytes  9737 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.5 GBytes  9873 Mbits/sec                  
+[  6]  90.03-120.03 sec  33.2 GBytes  9504 Mbits/sec                  
+[  6]  90.03-120.03 sec  32.6 GBytes  9346 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.3 GBytes  9824 Mbits/sec                  
+[  6]  90.03-120.03 sec  34.2 GBytes  9798 Mbits/sec                  
+[  6] 120.03-150.03 sec  35.1 GBytes  10047 Mbits/sec                  
+[  6] 120.03-150.03 sec  34.7 GBytes  9950 Mbits/sec                  
+[  6] 120.03-150.03 sec  35.4 GBytes  10124 Mbits/sec                  
+[  6] 120.03-150.03 sec  34.8 GBytes  9957 Mbits/sec                  
+[  6] 120.03-150.03 sec  33.7 GBytes  9659 Mbits/sec                  
+[  6] 120.03-150.03 sec  33.5 GBytes  9586 Mbits/sec                  
+[  6] 120.03-150.03 sec  34.2 GBytes  9783 Mbits/sec                  
+[  6] 120.03-150.03 sec  33.2 GBytes  9494 Mbits/sec                  
+[  6] 120.03-150.03 sec  32.5 GBytes  9317 Mbits/sec                  
+[  6] 120.03-150.03 sec  34.4 GBytes  9848 Mbits/sec                  

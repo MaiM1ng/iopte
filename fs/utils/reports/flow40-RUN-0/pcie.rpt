@@ -1,0 +1,9 @@
+PCIe_wr_tput: 
+PCIe_rd_tput: 
+IOTLB_hits: 
+IOTLB_misses: 
+CTXT_Miss: 
+L1_Miss: 
+L2_Miss: 
+L3_Miss: 
+Mem_Read: 

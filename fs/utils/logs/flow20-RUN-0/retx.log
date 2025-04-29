@@ -1,0 +1,193 @@
+Before measurement
+Ip:
+    Forwarding: 1
+    259962716 total packets received
+    2 with invalid addresses
+    0 forwarded
+    0 incoming packets discarded
+    259962712 incoming packets delivered
+    151104349 requests sent out
+    4 outgoing packets dropped
+Icmp:
+    25 ICMP messages received
+    0 input ICMP message failed
+    ICMP input histogram:
+        destination unreachable: 12
+        echo requests: 8
+        echo replies: 5
+    41 ICMP messages sent
+    0 ICMP messages failed
+    ICMP output histogram:
+        destination unreachable: 23
+        echo requests: 10
+        echo replies: 8
+IcmpMsg:
+        InType0: 5
+        InType3: 12
+        InType8: 8
+        OutType0: 8
+        OutType3: 23
+        OutType8: 10
+Tcp:
+    97 active connection openings
+    146 passive connection openings
+    1 failed connection attempts
+    22 connection resets received
+    46 connections established
+    259961017 segments received
+    151103022 segments sent out
+    23 segments retransmitted
+    3 bad segments received
+    273 resets sent
+    InCsumErrors: 3
+Udp:
+    1280 packets received
+    23 packets to unknown port received
+    0 packet receive errors
+    1346 packets sent
+    0 receive buffer errors
+    0 send buffer errors
+    IgnoredMulti: 349
+UdpLite:
+TcpExt:
+    1 resets received for embryonic SYN_RECV sockets
+    85 TCP sockets finished time wait in fast timer
+    143 delayed acks sent
+    189 delayed acks further delayed because of locked socket
+    Quick ack mode was activated 3822 times
+    138988 packet headers predicted
+    645 acknowledgments not containing data payload received
+    3835 predicted acknowledgments
+    TCPLostRetransmit: 14
+    TCPTimeouts: 21
+    TCPLossProbes: 4
+    TCPBacklogCoalesce: 16
+    TCPDSACKOldSent: 3823
+    TCPDSACKRecv: 2
+    31 connections reset due to unexpected data
+    20 connections reset due to early user close
+    2 connections aborted due to timeout
+    TCPSackShiftFallback: 3
+    IPReversePathFilter: 2
+    TCPRcvCoalesce: 722
+    TCPOFOQueue: 236
+    TCPAutoCorking: 45
+    TCPFromZeroWindowAdv: 1
+    TCPToZeroWindowAdv: 1
+    TCPWantZeroWindowAdv: 142
+    TCPSynRetrans: 1
+    TCPOrigDataSent: 6641
+    TCPHystartDelayDetect: 1
+    TCPHystartDelayCwnd: 49
+    TCPKeepAlive: 78
+    TCPDelivered: 6722
+    TCPAckCompressed: 60
+    TcpTimeoutRehash: 18
+    TCPDSACKRecvSegs: 2
+IpExt:
+    InMcastPkts: 20
+    InBcastPkts: 349
+    InOctets: 6545700479630
+    OutOctets: 7858541138
+    InMcastOctets: 640
+    InBcastOctets: 130029
+    InNoECTPkts: 110109
+    InECT0Pkts: 1660134494
+MPTcpExt:
+Sleeping...
+After measurement
+Ip:
+    Forwarding: 1
+    269255577 total packets received
+    2 with invalid addresses
+    0 forwarded
+    0 incoming packets discarded
+    269255573 incoming packets delivered
+    156405040 requests sent out
+    4 outgoing packets dropped
+Icmp:
+    25 ICMP messages received
+    0 input ICMP message failed
+    ICMP input histogram:
+        destination unreachable: 12
+        echo requests: 8
+        echo replies: 5
+    41 ICMP messages sent
+    0 ICMP messages failed
+    ICMP output histogram:
+        destination unreachable: 23
+        echo requests: 10
+        echo replies: 8
+IcmpMsg:
+        InType0: 5
+        InType3: 12
+        InType8: 8
+        OutType0: 8
+        OutType3: 23
+        OutType8: 10
+Tcp:
+    97 active connection openings
+    146 passive connection openings
+    1 failed connection attempts
+    22 connection resets received
+    46 connections established
+    269253879 segments received
+    156403709 segments sent out
+    23 segments retransmitted
+    3 bad segments received
+    273 resets sent
+    InCsumErrors: 3
+Udp:
+    1287 packets received
+    23 packets to unknown port received
+    0 packet receive errors
+    1353 packets sent
+    0 receive buffer errors
+    0 send buffer errors
+    IgnoredMulti: 353
+UdpLite:
+TcpExt:
+    1 resets received for embryonic SYN_RECV sockets
+    85 TCP sockets finished time wait in fast timer
+    143 delayed acks sent
+    194 delayed acks further delayed because of locked socket
+    Quick ack mode was activated 6000 times
+    143738 packet headers predicted
+    645 acknowledgments not containing data payload received
+    3835 predicted acknowledgments
+    TCPLostRetransmit: 14
+    TCPTimeouts: 21
+    TCPLossProbes: 4
+    TCPBacklogCoalesce: 16
+    TCPDSACKOldSent: 6001
+    TCPDSACKRecv: 2
+    31 connections reset due to unexpected data
+    20 connections reset due to early user close
+    2 connections aborted due to timeout
+    TCPSackShiftFallback: 3
+    IPReversePathFilter: 2
+    TCPRcvCoalesce: 722
+    TCPOFOQueue: 236
+    TCPAutoCorking: 45
+    TCPFromZeroWindowAdv: 1
+    TCPToZeroWindowAdv: 1
+    TCPWantZeroWindowAdv: 142
+    TCPSynRetrans: 1
+    TCPOrigDataSent: 6641
+    TCPHystartDelayDetect: 1
+    TCPHystartDelayCwnd: 49
+    TCPKeepAlive: 78
+    TCPDelivered: 6722
+    TCPAckCompressed: 60
+    TcpTimeoutRehash: 18
+    TCPDSACKRecvSegs: 2
+IpExt:
+    InMcastPkts: 20
+    InBcastPkts: 353
+    InOctets: 6790590223053
+    OutOctets: 8134205185
+    InMcastOctets: 640
+    InBcastOctets: 131630
+    InNoECTPkts: 110120
+    InECT0Pkts: 1722278665
+MPTcpExt:
