@@ -1,4 +1,4 @@
-#!/bin/bash
+g!/bin/bash
 
 ./set_git.sh
 ./set_packageg.sh
@@ -12,3 +12,5 @@
 ./requirements/install_iperf3.sh
 ./requirements/install_nstack.sh
 ./requirements/install_rdt.sh
+
+sudo /etc/init.d/openibd restart
