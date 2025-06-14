@@ -1,16 +1,28 @@
-g!/bin/bash
+#!/bin/bash
 
-./set_git.sh
-./set_packageg.sh
+set -e
 
-./requirements/install_ofed.sh
-./requirements/install_ddio.sh
-./requirements/install_mlc.sh
-./requirements/install_frameGraph.sh
-./requirements/install_netperf.sh
-./requirements/install_pcm.sh
-./requirements/install_iperf3.sh
-./requirements/install_nstack.sh
-./requirements/install_rdt.sh
+# 获取当前脚本所在目录（绝对路径）
+DIR="$(cd "$(dirname "$0")" && pwd)"
 
+# 根目录：你的 iopte 根目录
+ROOT_DIR="$(realpath "$DIR/../..")"
+
+# 调用 utils 脚本
+"$DIR/set_git.sh"
+"$DIR/set_packages.sh"
+
+# 调用 requirements 下的安装脚本
+REQUIREMENTS_DIR="$DIR/requirements"
+"$REQUIREMENTS_DIR/install_ofed.sh"
+"$REQUIREMENTS_DIR/install_ddio.sh"
+"$REQUIREMENTS_DIR/install_mlc.sh"
+"$REQUIREMENTS_DIR/install_frameGraph.sh"
+"$REQUIREMENTS_DIR/install_netperf.sh"
+"$REQUIREMENTS_DIR/install_pcm.sh"
+"$REQUIREMENTS_DIR/install_iperf3.sh"
+"$REQUIREMENTS_DIR/install_nstack.sh"
+"$REQUIREMENTS_DIR/install_rdt.sh"
+
+# 重启 openibd 服务
 sudo /etc/init.d/openibd restart

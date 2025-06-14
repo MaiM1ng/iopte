@@ -9,7 +9,10 @@ git clone https://github.com/aliireza/ddio-bench.git
 
 cd ddio-bench
 
-sed -i 's/\bnic_bus=0x[0-9a-fA-F]\+\b/nic_bus=0x51/' change-ddio.c
+#sm110p 0x51
+#r650 0xca
+
+sed -i 's/\bnic_bus=0x[0-9a-fA-F]\+\b/nic_bus=0xca/' change-ddio.c
 
 # ddio-off
 gcc change-ddio.c -o change-ddio-off -lpci
